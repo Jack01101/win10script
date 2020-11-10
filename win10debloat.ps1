@@ -30,7 +30,7 @@ $tweaks = @(
 	"DisableFeedback",
 	"DisableTailoredExperiences",
 	"DisableAdvertisingID",
-	"DisableCortana",
+	#"DisableCortana",
 	"DisableErrorReporting",
 	"SetP2PUpdateLocal",          # "SetP2PUpdateInternet",
 	"DisableDiagTrack",
@@ -70,8 +70,8 @@ $tweaks = @(
 	"DisableFastStartup",
 
 	### UI Tweaks ###         
-	"EnableActionCenter",
-	"EnableLockScreen",
+	#"EnableActionCenter",
+	#"EnableLockScreen",
 	"DisableLockScreenRS1",
 	"DisableStickyKeys",
 	"ShowTaskManagerDetails",
@@ -81,7 +81,7 @@ $tweaks = @(
 	"HideTaskbarPeopleIcon",
 	"ShowTrayIcons",                # "HideTrayIcons",
 	"DisableSearchAppInStore",
-	"DisableNewAppPrompt",
+	#"DisableNewAppPrompt",
 	"EnableDarkMode",
 	"Stop-EdgePDF",
 
