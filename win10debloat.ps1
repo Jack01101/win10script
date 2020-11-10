@@ -37,7 +37,7 @@ $tweaks = @(
 	"DisableWAPPush",
 
 	### Security Tweaks ###
-	"SetUACLow",                  # "SetUACHigh",
+	"SetUACHigh",
 	# "EnableSharingMappedDrives",
 	"DisableSMB1",                # "EnableSMB1",
 	"SetCurrentNetworkPrivate",     # "SetCurrentNetworkPublic",
